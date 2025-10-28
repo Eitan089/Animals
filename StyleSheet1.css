@@ -1,0 +1,28 @@
+body {
+    direction: rtl;
+}
+h1 {
+    font-family: Aharoni;
+    font-size: 350%;
+    text-align: center;
+}
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 200%;
+    text-align: center;
+
+}
+p {
+    text-align: right;
+    font-family: Arial;
+    font-size: 150%;
+}
+hr {
+    border: 1.5px solid black;
+}
+div {
+    text-align: center;
+}
+ul{
+    color: black;
+}
