@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/eitan/MyCoreApp/MyCoreApp.csproj",
+      "projectUniqueName": "/home/eitan/Code/Animals/MyCoreApp.csproj",
       "projectName": "MyCoreApp",
-      "projectPath": "/home/eitan/MyCoreApp/MyCoreApp.csproj",
+      "projectPath": "/home/eitan/Code/Animals/MyCoreApp.csproj",
       "packagesPath": "/home/eitan/.nuget/packages/",
-      "outputPath": "/home/eitan/MyCoreApp/obj/",
+      "outputPath": "/home/eitan/Code/Animals/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/eitan/.nuget/NuGet/NuGet.Config"
